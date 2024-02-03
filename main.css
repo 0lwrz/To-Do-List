@@ -1,0 +1,36 @@
+body{
+    background-color: #eee;
+}
+.ToDoList{
+    background-color: white;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 40px;
+}
+.submit{
+    background-color: green;
+    color: #eee;
+    padding: 5px;
+}
+.text{
+    border: 2px black solid;
+    padding: 5px;
+}
+h2{
+    font-size: 35px;
+}
+.checkbox{
+    text-align: left;
+}
+li{
+    text-align: left;
+    list-style-type: none;
+}
+.task{
+    text-align: left;
+}
+.decoration{
+    text-decoration:line-through;
+    background-color: darkgray;
+}
